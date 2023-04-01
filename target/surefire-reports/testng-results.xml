@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-01T13:43:30 EET" name="Testing Google Apps" finished-at="2023-04-01T13:45:21 EET" duration-ms="110893">
+    <groups>
+    </groups>
+    <test started-at="2023-04-01T13:43:30 EET" name="Regression" finished-at="2023-04-01T13:45:21 EET" duration-ms="110893">
+      <class name="tests.TvPackageTests">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:43:30 EET" name="startReport" finished-at="2023-04-01T13:43:31 EET" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:43:31 EET" name="setup" finished-at="2023-04-01T13:43:50 EET" duration-ms="19098" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TvPackageTests.checkValueEgypt() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initUtlities()[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:43:50 EET" name="initUtlities" finished-at="2023-04-01T13:43:50 EET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initUtlities -->
+        <test-method signature="checkValueEgypt()[pri:1, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:43:50 EET" name="checkValueEgypt" description="Check values egypt" finished-at="2023-04-01T13:43:58 EET" duration-ms="8704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkValueEgypt -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:43:58 EET" name="setTestResult" finished-at="2023-04-01T13:43:58 EET" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkValueEgypt status=SUCCESS method=TvPackageTests.checkValueEgypt()[pri:1, instance:tests.TvPackageTests@7714e963] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:43:58 EET" name="setup" finished-at="2023-04-01T13:44:11 EET" duration-ms="12894" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TvPackageTests.checkValueOman() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initUtlities()[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:44:11 EET" name="initUtlities" finished-at="2023-04-01T13:44:11 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initUtlities -->
+        <test-method signature="checkValueOman()[pri:1, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:44:11 EET" name="checkValueOman" description="Check values oman" finished-at="2023-04-01T13:44:18 EET" duration-ms="6590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkValueOman -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:44:18 EET" name="setTestResult" finished-at="2023-04-01T13:44:18 EET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkValueOman status=SUCCESS method=TvPackageTests.checkValueOman()[pri:1, instance:tests.TvPackageTests@7714e963] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:44:18 EET" name="setup" finished-at="2023-04-01T13:45:08 EET" duration-ms="50008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TvPackageTests.checkValueUAE() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initUtlities()[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:45:08 EET" name="initUtlities" finished-at="2023-04-01T13:45:08 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initUtlities -->
+        <test-method signature="checkValueUAE()[pri:1, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:45:08 EET" name="checkValueUAE" description="Check values UAE" finished-at="2023-04-01T13:45:19 EET" duration-ms="11349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkValueUAE -->
+        <test-method is-config="true" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:45:19 EET" name="setTestResult" finished-at="2023-04-01T13:45:19 EET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkValueUAE status=SUCCESS method=TvPackageTests.checkValueUAE()[pri:1, instance:tests.TvPackageTests@7714e963] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestResult -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.TvPackageTests@7714e963]" started-at="2023-04-01T13:45:19 EET" name="close" finished-at="2023-04-01T13:45:21 EET" duration-ms="1662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.TvPackageTests -->
+    </test> <!-- Regression -->
+  </suite> <!-- Testing Google Apps -->
+</testng-results>
